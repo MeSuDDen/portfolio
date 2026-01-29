@@ -10,6 +10,8 @@
   --color-foreground: #f8f8f8;
   --color-muted-foreground: #86909b;
   --color-background: #0b121a;
+  --color-card: #141b24;
+  --color-border: #273442;
 }
 
 body {

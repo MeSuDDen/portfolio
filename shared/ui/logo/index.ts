@@ -1,1 +1,1 @@
-export {Logo} from "@/shared/ui/logo/logo";
+export {Logo} from "@/shared/ui/logo/logo"

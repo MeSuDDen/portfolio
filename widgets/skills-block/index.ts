@@ -1,0 +1,1 @@
+export {SkillsBlock} from '@/widgets/skills-block/ui/SkillsBlock'

@@ -1,0 +1,1 @@
+export {SkillCard} from '@/shared/ui/skill-card/SkillCard'
