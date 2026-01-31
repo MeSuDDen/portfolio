@@ -1,0 +1,1 @@
+export { ProjectCard } from '@/entities/project/ui/ProjectCard'

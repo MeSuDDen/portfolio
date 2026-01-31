@@ -1,5 +1,6 @@
 import {Button} from "@/shared/ui/button/Button";
 import Link from "next/link";
+import {Download} from "lucide-react";
 
 export function HeroSection() {
     return (
@@ -12,8 +13,9 @@ export function HeroSection() {
                         <h1 className={'text-4xl md:text-5xl lg:text-6xl font-bold text-foreground leading-tight'}>Алексей Коростов</h1>
                         <p className={'text-muted-foreground text-lg max-w-lg leading-relaxed'}>Я создаю современные и удобные веб-приложения, которые легко использовать на любых устройствах. Пока я только начинаю путь в разработке, но мои знания позволяют быстро и качественно реализовать ваши идеи.</p>
                         <div>
-                            <Button asChild>
+                            <Button size={'lg'} variant={'outline'} asChild>
                                 <Link href="/resume/resume.pdf" download>
+                                    <Download/>
                                     Скачать резюме
                                 </Link>
                             </Button>

@@ -1,0 +1,1 @@
+export { ProjectSection } from '@/widgets/project-section/ui/ProjectSection'
