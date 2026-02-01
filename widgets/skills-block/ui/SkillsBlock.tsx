@@ -4,7 +4,7 @@ import {SectionTitle} from "@/shared/ui/section-title";
 
 export function SkillsBlock() {
     return (
-        <section className={'py-20 relative'}>
+        <section className={'py-16 relative'}>
             <div className={'absolute inset-0 overflow-hidden pointer-events-none'}>
                 <div className={'absolute top-10 right-[10%] w-4 h-4 border border-primary/20'}></div>
                 <div className={'absolute bottom-20 left-[5%] w-5 h-5 border border-primary/15 rotate-12'}></div>

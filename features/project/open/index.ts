@@ -1,1 +1,0 @@
-export { OpenProjectButton } from '@/features/project/open/ui/OpenProjectButton'

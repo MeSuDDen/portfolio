@@ -2,7 +2,7 @@ import type {Metadata} from "next";
 
 import {Balsamiq_Sans} from "next/font/google";
 
-import "./globals.css";
+import "../globals.css";
 
 import {Header} from "@/widgets/header";
 import {Footer} from "@/widgets/footer";
